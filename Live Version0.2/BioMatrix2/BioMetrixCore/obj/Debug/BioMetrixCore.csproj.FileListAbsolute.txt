@@ -1,0 +1,379 @@
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\Zktech\ZKTeco Using C#\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\BioMetrix\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojResolveAssemblyReference.cache
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\WORK\Finger print\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\New folder\New folder\Extra\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\WORK\New folder\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\WORK\Finger print\Versions\FINALS\Share\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\New folder\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\TEST\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\WORK\Shakhabet\VERSIONS\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Kshkol\newfinal\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\النظام - نسخة تجريبية1\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Last Version\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\Last Version.2\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\Last Version.2\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\Last Version.2\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\Last Version.2\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\Last Version.2\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\Version 0.6\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\066666\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\amr.bashnaini\Desktop\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.AssemblyReference.cache
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.CardView.resources
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.OneCardView.resources
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CopyComplete
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+D:\Old Hardisk\New DK\06\BioMatrix2\BioMetrixCore\obj\Debug\BioMetrixCore.pdb

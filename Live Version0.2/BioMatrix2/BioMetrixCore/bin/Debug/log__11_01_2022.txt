@@ -1,0 +1,45 @@
+
+Log Entry : 10:52:26 11 January 2022
+  :
+  : 1 Try to connect to the device with IP 172.16.20.145
+-------------------------------
+
+Log Entry : 10:52:27 11 January 2022
+  :
+  : 1 Try to connect to Set the Device Time
+-------------------------------
+
+Log Entry : 10:52:27 11 January 2022
+  :
+  : 1 Go to check function
+-------------------------------
+
+Log Entry : 10:52:32 11 January 2022
+  :
+  : 4 Setting Device Time...
+-------------------------------
+
+Log Entry : 10:52:32 11 January 2022
+  :
+  : 4 do the interface...
+-------------------------------
+
+Log Entry : 10:52:33 11 January 2022
+  :
+  : DB Connection status is : Oracle.ManagedDataAccess.Client.OracleConnection
+-------------------------------
+
+Log Entry : 10:53:40 11 January 2022
+  :
+  : 1 Try to connect to the device with IP 172.16.20.145
+-------------------------------
+
+Log Entry : 10:53:41 11 January 2022
+  :
+  : 1 Try to connect to Set the Device Time
+-------------------------------
+
+Log Entry : 10:53:41 11 January 2022
+  :
+  : 1 Go to check function
+-------------------------------
